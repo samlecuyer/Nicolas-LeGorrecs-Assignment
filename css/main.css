@@ -7,7 +7,6 @@
 	border-color: #708090;
 	margin: 5px;
 	margin-top: 5px;
-	/*border-radius: 25px;*/
 }
 
 .title {
@@ -18,14 +17,11 @@
 	border-style: solid;
 	border-color: #708090;
 	margin: 5px;
-	/*border-radius: 25px;*/
-
 	text-align: center;
 }
 
 .vid {
 	margin: 5px;
-	/*border-radius: 25px;*/
 }
 
 .partOne {
